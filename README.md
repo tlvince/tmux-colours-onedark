@@ -2,6 +2,10 @@
 
 > A true colour tmux theme based on Atom's One Dark
 
+![Screenshot][screenshot]
+
+[screenshot]: screenshot.png
+
 ## Usage
 
 1. Clone this repo somewhere. I use `$HOME/.tmux`.
